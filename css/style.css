@@ -1,0 +1,20 @@
+#task{
+	border:2px solid red;
+	background-color:blue;
+	background-position:center;
+	padding-right:50px;
+	padding-left:50px;
+	margin-bottom:500px;
+	display:flex;
+	justify-content:space-between;
+}
+.akash{ 
+	background-color:white;
+	padding-right:100px;
+	padding-left:100px;
+	margin-top:100px;
+	margin-bottom:100px;
+	width:100px;
+	height:auto;
+	
+}
